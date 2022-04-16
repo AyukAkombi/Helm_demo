@@ -9,10 +9,10 @@ aws:
     prod:
 
 image: 
-  name:
+  name: docker/maven-web-app-v2
 
 deployment:
   name: maven-web-app
 
-replicas: 2
+replicas: 3
   
