@@ -1,0 +1,18 @@
+aws:
+  environment: "defaut"
+  name: 
+  
+
+  account: 
+    dev:
+    stage:
+    prod:
+
+image: 
+  name:
+
+deployment:
+  name: maven-web-app
+
+replicas: 2
+  
